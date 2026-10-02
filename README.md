@@ -2,21 +2,25 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Sidik**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,45:7F00FF,100:FF00CC&height=230&section=header&text=SIDIK&fontSize=82&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20WEB%20DEVELOPER&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Animated colorful header"/>
 
-### Full-Stack Web Developer · B.Tech CSE · Builder of Real-World Projects
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Sidik;Full-Stack+Web+Developer+%7C+B.Tech+CSE;JavaScript+%7C+React+%7C+Node.js+%7C+MySQL;Building+Real-World+Projects+%F0%9F%9A%80" alt="Animated introduction"/>
+
+<br/>
+
+### ⚡ Building • Learning • Shipping
 
 <a href="https://github.com/sidik11">
-  <img src="https://img.shields.io/badge/GitHub-sidik11-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-SIDIK11-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://github.com/sidik11?tab=followers">
-  <img src="https://img.shields.io/github/followers/sidik11?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/sidik11?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7F00FF" alt="Followers"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=sidik11&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sidik11&style=for-the-badge&color=00C6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=0E75B6&center=true&vCenter=true&width=720&lines=Building+Web+Applications+%F0%9F%9A%80;Frontend+%2B+Backend+Development;JavaScript+%7C+React+%7C+Node.js+%7C+MySQL;Turning+Ideas+Into+Working+Products+%F0%9F%92%BB" alt="Typing animation"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,firebase,git,github&perline=10" alt="Technology stack"/>
 
 </div>
 
