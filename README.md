@@ -1,52 +1,159 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              HEADER BANNER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- PROFILE README -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=260&section=header&text=SIDIK&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%20Frontend%20%2B%20Backend&descSize=22&descAlignY=58&animation=twinkling" width="100%" alt="Header Banner" />
+# 👋 Hi, I'm **Sidik**
+
+### Full-Stack Web Developer · B.Tech CSE · Builder of Real-World Projects
 
 <a href="https://github.com/sidik11">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=4ADE80&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Web+Developer+%F0%9F%9A%80;JavaScript+%7C+Kotlin+%7C+AI+Tools;Building+Real+World+Projects+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/GitHub-sidik11-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
+<a href="https://github.com/sidik11?tab=followers">
+  <img src="https://img.shields.io/github/followers/sidik11?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=sidik11&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sidik11&color=4ade80&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/sidik11?style=for-the-badge&logo=github&color=4ade80&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4ade80?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=0E75B6&center=true&vCenter=true&width=720&lines=Building+Web+Applications+%F0%9F%9A%80;Frontend+%2B+Backend+Development;JavaScript+%7C+React+%7C+Node.js+%7C+MySQL;Turning+Ideas+Into+Working+Products+%F0%9F%92%BB" alt="Typing animation"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                                 ABOUT ME                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🚀 About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Who I Am
+I'm **Sidik**, a Computer Science & Engineering graduate focused on building practical web applications and learning by shipping real projects.
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+- 🎓 **B.Tech in Computer Science & Engineering**
+- 💻 Focused on **Full-Stack Web Development**
+- ⚡ Comfortable working across frontend, backend, databases and deployment
+- 🧠 Interested in **AI-powered applications** and developer tools
+- 🔨 I prefer building real products over only following tutorials
+- 🌍 Based in **Odisha, India**
 
-```typescript
-const sidik: Developer = {
-  name: "Sidik",
-  role: "Web Developer",
-  location: "🌏 Available Worldwide",
-  stack: {
-    languages: ["JavaScript", "Kotlin"],
-    focus: ["Frontend", "Backend", "AI Tools"],
-  },
-  launchedProjects: [
-    "📝 Exam Pannel Web",
-    "🌍 Life-Vision NGO Website",
-  ],
-  certifications: [],
-  currentStatus: "🚀 Building & Learning",
-  openTo: [
-    "Frontend Development",
-    "Backend Development",
-    "AI-powered Projects",
-  ],
-  lifePhilosophy: "Code. Learn. Build. Repeat. 🔁",
-};
+> **Code → Build → Test → Improve → Repeat.**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" alt="Frontend technologies"/>
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase" alt="Backend technologies"/>
+</p>
+
+### Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,vercel,render" alt="Tools and deployment"/>
+</p>
+
+---
+
+## 🔥 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Applications
+Building complete applications with responsive interfaces, APIs, authentication, databases and deployment.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Practical Tools
+Creating utilities and systems that solve specific problems instead of building demos that never get used.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI-Enhanced Projects
+Exploring ways to integrate AI into useful applications and developer workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Deployment & Infrastructure
+Working with hosting, APIs, storage, environment variables, caching and production-oriented configuration.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🎓 **Competitive Exam Platform** | A full-stack examination platform with student, teacher, institute and administration workflows. |
+| 🖼️ **Secure Image / Gallery Projects** | Web-based image storage, viewing and protection experiments with modern browser technologies. |
+| 🎬 **Video Streaming Platform** | Video delivery experiments using object storage, signed URLs and streaming technologies. |
+| 🔎 **Multi-API Search Projects** | Search applications integrating external APIs with a custom web interface. |
+
+> More projects and experiments are available across my repositories.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sidik11&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidik11&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidik11&theme=transparent&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+01  Building better full-stack applications
+02  Improving backend architecture & security
+03  Learning modern deployment practices
+04  Exploring AI-powered development
+05  Turning side projects into polished products
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/sidik11">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💬 Open to
+**Web Development · Full-Stack Projects · Internships · Collaborations**
+
+<br/>
+
+<sub>Thanks for visiting my profile. Keep building. 🚀</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Build something useful. Then make it better."
+
+</div>
